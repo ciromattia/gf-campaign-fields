@@ -28,7 +28,6 @@ GFForms::include_feed_addon_framework();
  */
 class AqGFCampaignAddOn extends GFAddOn {
 
-	protected $_version = AQ_VELOCIFY_ADDON_VERSION;
 	protected $_min_gravityforms_version = '2.0.7.4';
 	protected $_slug = 'gf-campaign-fields';
 	protected $_path = 'gf-campaign-fields/gf-campaign-fields.php';
